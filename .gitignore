@@ -1,5 +1,7 @@
 .venv/
-input
+input/
 .DS_Store
+output/
+
 
 
