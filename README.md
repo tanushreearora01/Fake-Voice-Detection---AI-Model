@@ -6,7 +6,7 @@ In today's digital age, voice authentication is increasingly prevalent across va
 ## Background 
 Do you recall the moment in the movie Terminator where two Terminators were attempting to fool one another by voice-cloning a human? These days, it only takes a few minutes to replicate someone else's voice which is the basis of many scams. This inspired us to build a Fake Voice Detection model using AI & ML techniques to prevent malicious activities. 
 
-![Terminator Reference](images/terminator.png)
+![Terminator Reference](./images/terminator.png)
 
 ## Objectives
 The primary objective of this project is to enhance the security of voice-based systems by providing a tool that can accurately detect fake voices. This AI model leverages advanced machine-learning techniques to analyse audio samples and identify characteristics that differentiate genuine human voices from computer-generated or altered ones.
@@ -31,7 +31,7 @@ We will use Logical Access Dataset in ASVspoof 2019 competition, an English-spea
 - They are usually known for their model development using Image Processing
 But in the case of Audio, the audio signals can be converted into images which are known as spectrograms.
 
-![Example of Spectrogram](images/spectrogram%20example.png)
+![Example of Spectrogram](./images/spectrogram%20example.png)
 
 #### Methodology
 
@@ -46,7 +46,7 @@ But in the case of Audio, the audio signals can be converted into images which a
 - F1 Score: 65.97%
 
 Confusion Matrix for CNN
-![Confusion Matrix for CNN](images/CNN%20Confusion%20Matrix.png)
+![Confusion Matrix for CNN](./images/CNN%20Confusion%20Matrix.png)
 
 ### Long Short Term Memory (LSTM)
 
@@ -73,7 +73,7 @@ Confusion Matrix for CNN
 - F1 Score: 88.18%
 
 Confusion Matrix for LSTM
-![Confusion Matrix for LSTM](images/LSTM%20Confusion%20Matrix.png)
+![Confusion Matrix for LSTM](./images/LSTM%20Confusion%20Matrix.png)
 
 ## Installation
 
