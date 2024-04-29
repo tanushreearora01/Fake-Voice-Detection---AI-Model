@@ -73,7 +73,7 @@ Confusion Matrix for CNN
 - F1 Score: 88.18%
 
 Confusion Matrix for LSTM
-![Confusion Matrix for LSTM](<Screenshot 2024-04-28 at 11.20.13 PM.png>)
+![Confusion Matrix for LSTM](<images/Screenshot 2024-04-28 at 11.20.13 PM.png>)
 
 ## Installation
 
