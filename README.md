@@ -6,6 +6,8 @@ In today's digital age, voice authentication is increasingly prevalent across va
 ## Background 
 Do you recall the moment in the movie Terminator where two Terminators were attempting to fool one another by voice-cloning a human? These days, it only takes a few minutes to replicate someone else's voice which is the basis of many scams. This inspired us to build a Fake Voice Detection model using AI & ML techniques to prevent malicious activities. 
 
+![Terminator Reference](image.png)
+
 ## Objectives
 The primary objective of this project is to enhance the security of voice-based systems by providing a tool that can accurately detect fake voices. This AI model leverages advanced machine-learning techniques to analyse audio samples and identify characteristics that differentiate genuine human voices from computer-generated or altered ones.
 
@@ -92,7 +94,5 @@ LSTM's feedback connection approach makes it better to perform sequential data, 
 - Tanushree Arora 
 - Tarasha Bansal
 
-
 ## References 
 [ASVspoof2019](https://www.asvspoof.org/index2019.html)
-
