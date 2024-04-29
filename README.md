@@ -31,6 +31,8 @@ We will use Logical Access Dataset in ASVspoof 2019 competition, an English-spea
 - They are usually known for their model development using Image Processing
 But in the case of Audio, the audio signals can be converted into images which are known as spectrograms.
 
+![Example of Spectrogram](image-1.png)
+
 #### Methodology
 
 - For performing the CNN model on our audio dataset, we converted our audio samples into images in the form of spectrograms 
@@ -42,6 +44,9 @@ But in the case of Audio, the audio signals can be converted into images which a
 - Recall: 58.45%
 - Precision: 75.70%
 - F1 Score: 65.97%
+
+Confusion Matrix for CNN
+![Confusion Matrix for CNN](<Screenshot 2024-04-28 at 11.19.56 PM.png>)
 
 ### Long Short Term Memory (LSTM)
 
@@ -67,6 +72,8 @@ But in the case of Audio, the audio signals can be converted into images which a
 - Precision: 89.25%
 - F1 Score: 88.18%
 
+Confusion Matrix for LSTM
+![Confusion Matrix for LSTM](<Screenshot 2024-04-28 at 11.20.13 PM.png>)
 
 ## Installation
 
